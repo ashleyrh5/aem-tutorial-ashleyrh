@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/ashleytestsite/:/",
-    "/content/ashleytestsite/configuration:/.helix/config.json",
-    "/content/ashleytestsite/metadata:/metadata.json"
+    "/content/ashleytestsiteV2/:/",
+    "/content/ashleytestsiteV2/configuration:/.helix/config.json",
+    "/content/ashleytestsiteV2/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/ashleytestsite/"
+    "/content/ashleytestsiteV2/"
   ]
 }
